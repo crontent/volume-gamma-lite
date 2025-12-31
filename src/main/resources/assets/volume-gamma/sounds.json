@@ -1,0 +1,58 @@
+{
+  "music_disc.wuop": {
+    "sounds": [
+      {
+        "name": "volume-gamma:records/music_disc_wuop",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.fly": {
+    "sounds": [
+      {
+        "name": "volume-gamma:records/music_disc_fly",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.harvest": {
+    "sounds": [
+      {
+        "name": "volume-gamma:records/music_disc_harvest",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.melanc": {
+    "sounds": [
+      {
+        "name": "volume-gamma:records/music_disc_melanc",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.loofah": {
+    "sounds": [
+      {
+        "name": "volume-gamma:records/music_disc_loofah",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.kena": {
+    "sounds": [
+      {
+        "name": "volume-gamma:records/music_disc_kena",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.bluupy": {
+    "sounds": [
+      {
+        "name": "volume-gamma:records/music_disc_bluupy",
+        "stream": true
+      }
+    ]
+  }
+}

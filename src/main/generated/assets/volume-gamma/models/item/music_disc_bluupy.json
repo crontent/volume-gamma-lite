@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "volume-gamma:item/music_disc_bluupy"
+  }
+}

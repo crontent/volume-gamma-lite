@@ -1,0 +1,10 @@
+{
+  "comparator_output": 1,
+  "description": {
+    "translate": "jukebox_song.volume-gamma.music_disc.fly"
+  },
+  "length_in_seconds": 173.0,
+  "sound_event": {
+    "sound_id": "volume-gamma:music_disc.fly"
+  }
+}

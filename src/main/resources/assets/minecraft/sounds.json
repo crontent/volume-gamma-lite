@@ -1,0 +1,1208 @@
+{
+  "music.creative": {
+    "sounds": [
+      {
+        "name": "volume-gamma-lite:music/bumpy",
+        "stream": true,
+        "weight": 2
+      },
+      {
+        "name": "volume-gamma-lite:music/farvel_memory",
+        "stream": true,
+        "weight": 2
+      },
+      {
+        "name": "volume-gamma-lite:music/flotsam",
+        "stream": true,
+        "weight": 2
+      },
+      {
+        "name": "volume-gamma-lite:music/gom",
+        "stream": true,
+        "weight": 2
+      },
+      {
+        "name": "volume-gamma-lite:music/guenzburg",
+        "stream": true,
+        "weight": 2
+      },
+      {
+        "name": "volume-gamma-lite:music/lock",
+        "stream": true,
+        "weight": 2
+      },
+      {
+        "name": "volume-gamma-lite:music/scrat",
+        "stream": true,
+        "weight": 2
+      },
+      {
+        "name": "volume-gamma-lite:music/two_note_dance",
+        "stream": true,
+        "weight": 2
+      },
+      {
+        "name": "volume-gamma-lite:music/waterfall_novela",
+        "stream": true,
+        "weight": 2
+      },
+      {
+        "name": "volume-gamma-lite:music/wind",
+        "stream": true,
+        "weight": 2
+      }
+    ]
+  },
+  "music.credits": {
+    "sounds": []
+  },
+  "music.dragon": {
+    "sounds": []
+  },
+  "music.end": {
+    "sounds": []
+  },
+  "music.game": {
+    "sounds": [
+      {
+        "name": "volume-gamma-lite:music/bumpy",
+        "stream": true,
+        "weight": 2
+      },
+      {
+        "name": "volume-gamma-lite:music/farvel_memory",
+        "stream": true,
+        "weight": 2
+      },
+      {
+        "name": "volume-gamma-lite:music/flotsam",
+        "stream": true,
+        "weight": 2
+      },
+      {
+        "name": "volume-gamma-lite:music/gom",
+        "stream": true,
+        "weight": 2
+      },
+      {
+        "name": "volume-gamma-lite:music/guenzburg",
+        "stream": true,
+        "weight": 2
+      },
+      {
+        "name": "volume-gamma-lite:music/lock",
+        "stream": true,
+        "weight": 2
+      },
+      {
+        "name": "volume-gamma-lite:music/scrat",
+        "stream": true,
+        "weight": 2
+      },
+      {
+        "name": "volume-gamma-lite:music/two_note_dance",
+        "stream": true,
+        "weight": 2
+      },
+      {
+        "name": "volume-gamma-lite:music/waterfall_novela",
+        "stream": true,
+        "weight": 2
+      },
+      {
+        "name": "volume-gamma-lite:music/wind",
+        "stream": true,
+        "weight": 2
+      }
+    ]
+  },
+  "music.menu": {
+    "sounds": [
+      {
+        "name": "volume-gamma-lite:music/main_menu",
+        "stream": true,
+        "weight": 2
+      },
+      {
+        "name": "volume-gamma-lite:music/farvel_memory",
+        "stream": true,
+        "weight": 2
+      },
+      {
+        "name": "volume-gamma-lite:music/scrat",
+        "stream": true,
+        "weight": 2
+      },
+      {
+        "name": "volume-gamma-lite:music/wind",
+        "stream": true,
+        "weight": 2
+      },
+      {
+        "name": "volume-gamma-lite:music/lock",
+        "stream": true,
+        "weight": 2
+      }
+    ]
+  },
+  "music.nether.basalt_deltas": {
+    "sounds": [
+      {
+        "name": "volume-gamma-lite:music/nokk",
+        "stream": true,
+        "weight": 3
+      },
+      {
+        "name": "volume-gamma-lite:music/red_fortress",
+        "stream": true,
+        "weight": 3
+      }
+    ]
+  },
+  "music.nether.crimson_forest": {
+    "sounds": [
+      {
+        "name": "volume-gamma-lite:music/nokk",
+        "stream": true,
+        "weight": 3
+      },
+      {
+        "name": "volume-gamma-lite:music/red_fortress",
+        "stream": true,
+        "weight": 3
+      }
+    ]
+  },
+  "music.nether.nether_wastes": {
+    "sounds": [
+      {
+        "name": "volume-gamma-lite:music/nokk",
+        "stream": true,
+        "weight": 3
+      },
+      {
+        "name": "volume-gamma-lite:music/red_fortress",
+        "stream": true,
+        "weight": 3
+      }
+    ]
+  },
+  "music.nether.soul_sand_valley": {
+    "sounds": [
+      {
+        "name": "volume-gamma-lite:music/nokk",
+        "stream": true,
+        "weight": 3
+      },
+      {
+        "name": "volume-gamma-lite:music/red_fortress",
+        "stream": true,
+        "weight": 3
+      }
+    ]
+  },
+  "music.overworld.badlands": {
+    "sounds": [
+      {
+        "name": "volume-gamma-lite:music/bumpy",
+        "stream": true,
+        "weight": 2
+      },
+      {
+        "name": "volume-gamma-lite:music/farvel_memory",
+        "stream": true,
+        "weight": 2
+      },
+      {
+        "name": "volume-gamma-lite:music/flotsam",
+        "stream": true,
+        "weight": 2
+      },
+      {
+        "name": "volume-gamma-lite:music/gom",
+        "stream": true,
+        "weight": 2
+      },
+      {
+        "name": "volume-gamma-lite:music/guenzburg",
+        "stream": true,
+        "weight": 2
+      },
+      {
+        "name": "volume-gamma-lite:music/lock",
+        "stream": true,
+        "weight": 2
+      },
+      {
+        "name": "volume-gamma-lite:music/scrat",
+        "stream": true,
+        "weight": 2
+      },
+      {
+        "name": "volume-gamma-lite:music/two_note_dance",
+        "stream": true,
+        "weight": 2
+      },
+      {
+        "name": "volume-gamma-lite:music/waterfall_novela",
+        "stream": true,
+        "weight": 2
+      },
+      {
+        "name": "volume-gamma-lite:music/wind",
+        "stream": true,
+        "weight": 2
+      }
+    ]
+  },
+  "music.overworld.bamboo_jungle": {
+    "sounds": [
+      {
+        "name": "volume-gamma-lite:music/bumpy",
+        "stream": true,
+        "weight": 2
+      },
+      {
+        "name": "volume-gamma-lite:music/farvel_memory",
+        "stream": true,
+        "weight": 2
+      },
+      {
+        "name": "volume-gamma-lite:music/flotsam",
+        "stream": true,
+        "weight": 2
+      },
+      {
+        "name": "volume-gamma-lite:music/gom",
+        "stream": true,
+        "weight": 2
+      },
+      {
+        "name": "volume-gamma-lite:music/guenzburg",
+        "stream": true,
+        "weight": 2
+      },
+      {
+        "name": "volume-gamma-lite:music/lock",
+        "stream": true,
+        "weight": 2
+      },
+      {
+        "name": "volume-gamma-lite:music/scrat",
+        "stream": true,
+        "weight": 2
+      },
+      {
+        "name": "volume-gamma-lite:music/two_note_dance",
+        "stream": true,
+        "weight": 2
+      },
+      {
+        "name": "volume-gamma-lite:music/waterfall_novela",
+        "stream": true,
+        "weight": 2
+      },
+      {
+        "name": "volume-gamma-lite:music/wind",
+        "stream": true,
+        "weight": 2
+      }
+    ]
+  },
+  "music.overworld.cherry_grove": {
+    "sounds": [
+      {
+        "name": "volume-gamma-lite:music/bumpy",
+        "stream": true,
+        "weight": 2
+      },
+      {
+        "name": "volume-gamma-lite:music/farvel_memory",
+        "stream": true,
+        "weight": 2
+      },
+      {
+        "name": "volume-gamma-lite:music/flotsam",
+        "stream": true,
+        "weight": 2
+      },
+      {
+        "name": "volume-gamma-lite:music/gom",
+        "stream": true,
+        "weight": 2
+      },
+      {
+        "name": "volume-gamma-lite:music/guenzburg",
+        "stream": true,
+        "weight": 2
+      },
+      {
+        "name": "volume-gamma-lite:music/lock",
+        "stream": true,
+        "weight": 2
+      },
+      {
+        "name": "volume-gamma-lite:music/scrat",
+        "stream": true,
+        "weight": 2
+      },
+      {
+        "name": "volume-gamma-lite:music/two_note_dance",
+        "stream": true,
+        "weight": 2
+      },
+      {
+        "name": "volume-gamma-lite:music/waterfall_novela",
+        "stream": true,
+        "weight": 2
+      },
+      {
+        "name": "volume-gamma-lite:music/wind",
+        "stream": true,
+        "weight": 2
+      }
+    ]
+  },
+  "music.overworld.deep_dark": {
+    "sounds": []
+  },
+  "music.overworld.desert": {
+    "sounds": [
+      {
+        "name": "volume-gamma-lite:music/bumpy",
+        "stream": true,
+        "weight": 2
+      },
+      {
+        "name": "volume-gamma-lite:music/farvel_memory",
+        "stream": true,
+        "weight": 2
+      },
+      {
+        "name": "volume-gamma-lite:music/flotsam",
+        "stream": true,
+        "weight": 2
+      },
+      {
+        "name": "volume-gamma-lite:music/gom",
+        "stream": true,
+        "weight": 2
+      },
+      {
+        "name": "volume-gamma-lite:music/guenzburg",
+        "stream": true,
+        "weight": 2
+      },
+      {
+        "name": "volume-gamma-lite:music/lock",
+        "stream": true,
+        "weight": 2
+      },
+      {
+        "name": "volume-gamma-lite:music/scrat",
+        "stream": true,
+        "weight": 2
+      },
+      {
+        "name": "volume-gamma-lite:music/two_note_dance",
+        "stream": true,
+        "weight": 2
+      },
+      {
+        "name": "volume-gamma-lite:music/waterfall_novela",
+        "stream": true,
+        "weight": 2
+      },
+      {
+        "name": "volume-gamma-lite:music/wind",
+        "stream": true,
+        "weight": 2
+      }
+    ]
+  },
+  "music.overworld.dripstone_caves": {
+    "sounds": [
+      {
+        "name": "volume-gamma-lite:music/bumpy",
+        "stream": true,
+        "weight": 2
+      },
+      {
+        "name": "volume-gamma-lite:music/farvel_memory",
+        "stream": true,
+        "weight": 2
+      },
+      {
+        "name": "volume-gamma-lite:music/flotsam",
+        "stream": true,
+        "weight": 2
+      },
+      {
+        "name": "volume-gamma-lite:music/gom",
+        "stream": true,
+        "weight": 2
+      },
+      {
+        "name": "volume-gamma-lite:music/guenzburg",
+        "stream": true,
+        "weight": 2
+      },
+      {
+        "name": "volume-gamma-lite:music/lock",
+        "stream": true,
+        "weight": 2
+      },
+      {
+        "name": "volume-gamma-lite:music/scrat",
+        "stream": true,
+        "weight": 2
+      },
+      {
+        "name": "volume-gamma-lite:music/two_note_dance",
+        "stream": true,
+        "weight": 2
+      },
+      {
+        "name": "volume-gamma-lite:music/waterfall_novela",
+        "stream": true,
+        "weight": 2
+      },
+      {
+        "name": "volume-gamma-lite:music/wind",
+        "stream": true,
+        "weight": 2
+      }
+    ]
+  },
+  "music.overworld.flower_forest": {
+    "sounds": [
+      {
+        "name": "volume-gamma-lite:music/bumpy",
+        "stream": true,
+        "weight": 2
+      },
+      {
+        "name": "volume-gamma-lite:music/farvel_memory",
+        "stream": true,
+        "weight": 2
+      },
+      {
+        "name": "volume-gamma-lite:music/flotsam",
+        "stream": true,
+        "weight": 2
+      },
+      {
+        "name": "volume-gamma-lite:music/gom",
+        "stream": true,
+        "weight": 2
+      },
+      {
+        "name": "volume-gamma-lite:music/guenzburg",
+        "stream": true,
+        "weight": 2
+      },
+      {
+        "name": "volume-gamma-lite:music/lock",
+        "stream": true,
+        "weight": 2
+      },
+      {
+        "name": "volume-gamma-lite:music/scrat",
+        "stream": true,
+        "weight": 2
+      },
+      {
+        "name": "volume-gamma-lite:music/two_note_dance",
+        "stream": true,
+        "weight": 2
+      },
+      {
+        "name": "volume-gamma-lite:music/waterfall_novela",
+        "stream": true,
+        "weight": 2
+      },
+      {
+        "name": "volume-gamma-lite:music/wind",
+        "stream": true,
+        "weight": 2
+      }
+    ]
+  },
+  "music.overworld.forest": {
+    "sounds": [
+      {
+        "name": "volume-gamma-lite:music/bumpy",
+        "stream": true,
+        "weight": 2
+      },
+      {
+        "name": "volume-gamma-lite:music/farvel_memory",
+        "stream": true,
+        "weight": 2
+      },
+      {
+        "name": "volume-gamma-lite:music/flotsam",
+        "stream": true,
+        "weight": 2
+      },
+      {
+        "name": "volume-gamma-lite:music/gom",
+        "stream": true,
+        "weight": 2
+      },
+      {
+        "name": "volume-gamma-lite:music/guenzburg",
+        "stream": true,
+        "weight": 2
+      },
+      {
+        "name": "volume-gamma-lite:music/lock",
+        "stream": true,
+        "weight": 2
+      },
+      {
+        "name": "volume-gamma-lite:music/scrat",
+        "stream": true,
+        "weight": 2
+      },
+      {
+        "name": "volume-gamma-lite:music/two_note_dance",
+        "stream": true,
+        "weight": 2
+      },
+      {
+        "name": "volume-gamma-lite:music/waterfall_novela",
+        "stream": true,
+        "weight": 2
+      },
+      {
+        "name": "volume-gamma-lite:music/wind",
+        "stream": true,
+        "weight": 2
+      }
+    ]
+  },
+  "music.overworld.frozen_peaks": {
+    "sounds": [
+      {
+        "name": "volume-gamma-lite:music/bumpy",
+        "stream": true,
+        "weight": 2
+      },
+      {
+        "name": "volume-gamma-lite:music/farvel_memory",
+        "stream": true,
+        "weight": 2
+      },
+      {
+        "name": "volume-gamma-lite:music/flotsam",
+        "stream": true,
+        "weight": 2
+      },
+      {
+        "name": "volume-gamma-lite:music/gom",
+        "stream": true,
+        "weight": 2
+      },
+      {
+        "name": "volume-gamma-lite:music/guenzburg",
+        "stream": true,
+        "weight": 2
+      },
+      {
+        "name": "volume-gamma-lite:music/lock",
+        "stream": true,
+        "weight": 2
+      },
+      {
+        "name": "volume-gamma-lite:music/scrat",
+        "stream": true,
+        "weight": 2
+      },
+      {
+        "name": "volume-gamma-lite:music/two_note_dance",
+        "stream": true,
+        "weight": 2
+      },
+      {
+        "name": "volume-gamma-lite:music/waterfall_novela",
+        "stream": true,
+        "weight": 2
+      },
+      {
+        "name": "volume-gamma-lite:music/wind",
+        "stream": true,
+        "weight": 2
+      }
+    ]
+  },
+  "music.overworld.grove": {
+    "sounds": [
+      {
+        "name": "volume-gamma-lite:music/bumpy",
+        "stream": true,
+        "weight": 2
+      },
+      {
+        "name": "volume-gamma-lite:music/farvel_memory",
+        "stream": true,
+        "weight": 2
+      },
+      {
+        "name": "volume-gamma-lite:music/flotsam",
+        "stream": true,
+        "weight": 2
+      },
+      {
+        "name": "volume-gamma-lite:music/gom",
+        "stream": true,
+        "weight": 2
+      },
+      {
+        "name": "volume-gamma-lite:music/guenzburg",
+        "stream": true,
+        "weight": 2
+      },
+      {
+        "name": "volume-gamma-lite:music/lock",
+        "stream": true,
+        "weight": 2
+      },
+      {
+        "name": "volume-gamma-lite:music/scrat",
+        "stream": true,
+        "weight": 2
+      },
+      {
+        "name": "volume-gamma-lite:music/two_note_dance",
+        "stream": true,
+        "weight": 2
+      },
+      {
+        "name": "volume-gamma-lite:music/waterfall_novela",
+        "stream": true,
+        "weight": 2
+      },
+      {
+        "name": "volume-gamma-lite:music/wind",
+        "stream": true,
+        "weight": 2
+      }
+    ]
+  },
+  "music.overworld.jagged_peaks": {
+    "sounds": [
+      {
+        "name": "volume-gamma-lite:music/bumpy",
+        "stream": true,
+        "weight": 2
+      },
+      {
+        "name": "volume-gamma-lite:music/farvel_memory",
+        "stream": true,
+        "weight": 2
+      },
+      {
+        "name": "volume-gamma-lite:music/flotsam",
+        "stream": true,
+        "weight": 2
+      },
+      {
+        "name": "volume-gamma-lite:music/gom",
+        "stream": true,
+        "weight": 2
+      },
+      {
+        "name": "volume-gamma-lite:music/guenzburg",
+        "stream": true,
+        "weight": 2
+      },
+      {
+        "name": "volume-gamma-lite:music/lock",
+        "stream": true,
+        "weight": 2
+      },
+      {
+        "name": "volume-gamma-lite:music/scrat",
+        "stream": true,
+        "weight": 2
+      },
+      {
+        "name": "volume-gamma-lite:music/two_note_dance",
+        "stream": true,
+        "weight": 2
+      },
+      {
+        "name": "volume-gamma-lite:music/waterfall_novela",
+        "stream": true,
+        "weight": 2
+      },
+      {
+        "name": "volume-gamma-lite:music/wind",
+        "stream": true,
+        "weight": 2
+      }
+    ]
+  },
+  "music.overworld.jungle": {
+    "sounds": [
+      {
+        "name": "volume-gamma-lite:music/bumpy",
+        "stream": true,
+        "weight": 2
+      },
+      {
+        "name": "volume-gamma-lite:music/farvel_memory",
+        "stream": true,
+        "weight": 2
+      },
+      {
+        "name": "volume-gamma-lite:music/flotsam",
+        "stream": true,
+        "weight": 2
+      },
+      {
+        "name": "volume-gamma-lite:music/gom",
+        "stream": true,
+        "weight": 2
+      },
+      {
+        "name": "volume-gamma-lite:music/guenzburg",
+        "stream": true,
+        "weight": 2
+      },
+      {
+        "name": "volume-gamma-lite:music/lock",
+        "stream": true,
+        "weight": 2
+      },
+      {
+        "name": "volume-gamma-lite:music/scrat",
+        "stream": true,
+        "weight": 2
+      },
+      {
+        "name": "volume-gamma-lite:music/two_note_dance",
+        "stream": true,
+        "weight": 2
+      },
+      {
+        "name": "volume-gamma-lite:music/waterfall_novela",
+        "stream": true,
+        "weight": 2
+      },
+      {
+        "name": "volume-gamma-lite:music/wind",
+        "stream": true,
+        "weight": 2
+      }
+    ]
+  },
+  "music.overworld.lush_caves": {
+    "sounds": [
+      {
+        "name": "volume-gamma-lite:music/bumpy",
+        "stream": true,
+        "weight": 2
+      },
+      {
+        "name": "volume-gamma-lite:music/farvel_memory",
+        "stream": true,
+        "weight": 2
+      },
+      {
+        "name": "volume-gamma-lite:music/flotsam",
+        "stream": true,
+        "weight": 2
+      },
+      {
+        "name": "volume-gamma-lite:music/gom",
+        "stream": true,
+        "weight": 2
+      },
+      {
+        "name": "volume-gamma-lite:music/guenzburg",
+        "stream": true,
+        "weight": 2
+      },
+      {
+        "name": "volume-gamma-lite:music/lock",
+        "stream": true,
+        "weight": 2
+      },
+      {
+        "name": "volume-gamma-lite:music/scrat",
+        "stream": true,
+        "weight": 2
+      },
+      {
+        "name": "volume-gamma-lite:music/two_note_dance",
+        "stream": true,
+        "weight": 2
+      },
+      {
+        "name": "volume-gamma-lite:music/waterfall_novela",
+        "stream": true,
+        "weight": 2
+      },
+      {
+        "name": "volume-gamma-lite:music/wind",
+        "stream": true,
+        "weight": 2
+      }
+    ]
+  },
+  "music.overworld.meadow": {
+    "sounds": [
+      {
+        "name": "volume-gamma-lite:music/bumpy",
+        "stream": true,
+        "weight": 2
+      },
+      {
+        "name": "volume-gamma-lite:music/farvel_memory",
+        "stream": true,
+        "weight": 2
+      },
+      {
+        "name": "volume-gamma-lite:music/flotsam",
+        "stream": true,
+        "weight": 2
+      },
+      {
+        "name": "volume-gamma-lite:music/gom",
+        "stream": true,
+        "weight": 2
+      },
+      {
+        "name": "volume-gamma-lite:music/guenzburg",
+        "stream": true,
+        "weight": 2
+      },
+      {
+        "name": "volume-gamma-lite:music/lock",
+        "stream": true,
+        "weight": 2
+      },
+      {
+        "name": "volume-gamma-lite:music/scrat",
+        "stream": true,
+        "weight": 2
+      },
+      {
+        "name": "volume-gamma-lite:music/two_note_dance",
+        "stream": true,
+        "weight": 2
+      },
+      {
+        "name": "volume-gamma-lite:music/waterfall_novela",
+        "stream": true,
+        "weight": 2
+      },
+      {
+        "name": "volume-gamma-lite:music/wind",
+        "stream": true,
+        "weight": 2
+      }
+    ]
+  },
+  "music.overworld.old_growth_taiga": {
+    "sounds": [
+      {
+        "name": "volume-gamma-lite:music/bumpy",
+        "stream": true,
+        "weight": 2
+      },
+      {
+        "name": "volume-gamma-lite:music/farvel_memory",
+        "stream": true,
+        "weight": 2
+      },
+      {
+        "name": "volume-gamma-lite:music/flotsam",
+        "stream": true,
+        "weight": 2
+      },
+      {
+        "name": "volume-gamma-lite:music/gom",
+        "stream": true,
+        "weight": 2
+      },
+      {
+        "name": "volume-gamma-lite:music/guenzburg",
+        "stream": true,
+        "weight": 2
+      },
+      {
+        "name": "volume-gamma-lite:music/lock",
+        "stream": true,
+        "weight": 2
+      },
+      {
+        "name": "volume-gamma-lite:music/scrat",
+        "stream": true,
+        "weight": 2
+      },
+      {
+        "name": "volume-gamma-lite:music/two_note_dance",
+        "stream": true,
+        "weight": 2
+      },
+      {
+        "name": "volume-gamma-lite:music/waterfall_novela",
+        "stream": true,
+        "weight": 2
+      },
+      {
+        "name": "volume-gamma-lite:music/wind",
+        "stream": true,
+        "weight": 2
+      }
+    ]
+  },
+  "music.overworld.snowy_slopes": {
+    "sounds": [
+      {
+        "name": "volume-gamma-lite:music/bumpy",
+        "stream": true,
+        "weight": 2
+      },
+      {
+        "name": "volume-gamma-lite:music/farvel_memory",
+        "stream": true,
+        "weight": 2
+      },
+      {
+        "name": "volume-gamma-lite:music/flotsam",
+        "stream": true,
+        "weight": 2
+      },
+      {
+        "name": "volume-gamma-lite:music/gom",
+        "stream": true,
+        "weight": 2
+      },
+      {
+        "name": "volume-gamma-lite:music/guenzburg",
+        "stream": true,
+        "weight": 2
+      },
+      {
+        "name": "volume-gamma-lite:music/lock",
+        "stream": true,
+        "weight": 2
+      },
+      {
+        "name": "volume-gamma-lite:music/scrat",
+        "stream": true,
+        "weight": 2
+      },
+      {
+        "name": "volume-gamma-lite:music/two_note_dance",
+        "stream": true,
+        "weight": 2
+      },
+      {
+        "name": "volume-gamma-lite:music/waterfall_novela",
+        "stream": true,
+        "weight": 2
+      },
+      {
+        "name": "volume-gamma-lite:music/wind",
+        "stream": true,
+        "weight": 2
+      }
+    ]
+  },
+  "music.overworld.sparse_jungle": {
+    "sounds": [
+      {
+        "name": "volume-gamma-lite:music/bumpy",
+        "stream": true,
+        "weight": 2
+      },
+      {
+        "name": "volume-gamma-lite:music/farvel_memory",
+        "stream": true,
+        "weight": 2
+      },
+      {
+        "name": "volume-gamma-lite:music/flotsam",
+        "stream": true,
+        "weight": 2
+      },
+      {
+        "name": "volume-gamma-lite:music/gom",
+        "stream": true,
+        "weight": 2
+      },
+      {
+        "name": "volume-gamma-lite:music/guenzburg",
+        "stream": true,
+        "weight": 2
+      },
+      {
+        "name": "volume-gamma-lite:music/lock",
+        "stream": true,
+        "weight": 2
+      },
+      {
+        "name": "volume-gamma-lite:music/scrat",
+        "stream": true,
+        "weight": 2
+      },
+      {
+        "name": "volume-gamma-lite:music/two_note_dance",
+        "stream": true,
+        "weight": 2
+      },
+      {
+        "name": "volume-gamma-lite:music/waterfall_novela",
+        "stream": true,
+        "weight": 2
+      },
+      {
+        "name": "volume-gamma-lite:music/wind",
+        "stream": true,
+        "weight": 2
+      }
+    ]
+  },
+  "music.overworld.stony_peaks": {
+    "sounds": [
+      {
+        "name": "volume-gamma-lite:music/bumpy",
+        "stream": true,
+        "weight": 2
+      },
+      {
+        "name": "volume-gamma-lite:music/farvel_memory",
+        "stream": true,
+        "weight": 2
+      },
+      {
+        "name": "volume-gamma-lite:music/flotsam",
+        "stream": true,
+        "weight": 2
+      },
+      {
+        "name": "volume-gamma-lite:music/gom",
+        "stream": true,
+        "weight": 2
+      },
+      {
+        "name": "volume-gamma-lite:music/guenzburg",
+        "stream": true,
+        "weight": 2
+      },
+      {
+        "name": "volume-gamma-lite:music/lock",
+        "stream": true,
+        "weight": 2
+      },
+      {
+        "name": "volume-gamma-lite:music/scrat",
+        "stream": true,
+        "weight": 2
+      },
+      {
+        "name": "volume-gamma-lite:music/two_note_dance",
+        "stream": true,
+        "weight": 2
+      },
+      {
+        "name": "volume-gamma-lite:music/waterfall_novela",
+        "stream": true,
+        "weight": 2
+      },
+      {
+        "name": "volume-gamma-lite:music/wind",
+        "stream": true,
+        "weight": 2
+      }
+    ]
+  },
+  "music.overworld.swamp": {
+    "sounds": [
+      {
+        "name": "volume-gamma-lite:music/bumpy",
+        "stream": true,
+        "weight": 2
+      },
+      {
+        "name": "volume-gamma-lite:music/farvel_memory",
+        "stream": true,
+        "weight": 2
+      },
+      {
+        "name": "volume-gamma-lite:music/flotsam",
+        "stream": true,
+        "weight": 2
+      },
+      {
+        "name": "volume-gamma-lite:music/gom",
+        "stream": true,
+        "weight": 2
+      },
+      {
+        "name": "volume-gamma-lite:music/guenzburg",
+        "stream": true,
+        "weight": 2
+      },
+      {
+        "name": "volume-gamma-lite:music/lock",
+        "stream": true,
+        "weight": 2
+      },
+      {
+        "name": "volume-gamma-lite:music/scrat",
+        "stream": true,
+        "weight": 2
+      },
+      {
+        "name": "volume-gamma-lite:music/two_note_dance",
+        "stream": true,
+        "weight": 2
+      },
+      {
+        "name": "volume-gamma-lite:music/waterfall_novela",
+        "stream": true,
+        "weight": 2
+      },
+      {
+        "name": "volume-gamma-lite:music/wind",
+        "stream": true,
+        "weight": 2
+      }
+    ]
+  },
+  "music.under_water": {
+    "sounds": [
+      {
+        "name": "volume-gamma-lite:music/axiom",
+        "stream": true,
+        "weight": 2
+      },
+      {
+        "name": "volume-gamma-lite:music/flotsam",
+        "stream": true,
+        "weight": 2
+      },
+      {
+        "name": "volume-gamma-lite:music/lock",
+        "stream": true,
+        "weight": 2
+      },
+      {
+        "name": "volume-gamma-lite:music/ny",
+        "stream": true,
+        "weight": 2
+      },
+      {
+        "name": "volume-gamma-lite:music/wind",
+        "stream": true,
+        "weight": 2
+      }
+    ]
+  }
+}

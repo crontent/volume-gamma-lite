@@ -1,0 +1,43 @@
+{
+	"schemaVersion": 1,
+	"id": "volume-gamma-lite",
+	"version": "${version}",
+	"name": "Volume Gamma Lite",
+	"description": "What if Minecraft had more music? Now with 30% less fat!",
+	"authors": [
+		"crontent",
+		"JR Weiss"
+	],
+	"contact": {
+		"homepage": "https://modrinth.com/mod/volume-gamma",
+		"sources": "https://github.com/crontent/volume-gamma",
+		"issues": "https://github.com/crontent/volume-gamma/issues"
+	},
+	"license": "Rights reserverd",
+	"icon": "assets/volume-gamma-lite/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"mod.crontent.VolumeGammaLite"
+		],
+		"client": [
+			"mod.crontent.VolumeGammaLiteClient"
+		],
+		"fabric-datagen": [
+			"mod.crontent.VolumeGammaLiteDataGenerator"
+		]
+	},
+	"mixins": [
+		"volume-gamma-lite.mixins.json",
+		{
+			"config": "volume-gamma-lite.client.mixins.json",
+			"environment": "client"
+		}
+	],
+	"depends": {
+		"fabricloader": ">=0.18.4",
+		"minecraft": ">=1.21 <=1.21.1",
+		"java": ">=21",
+		"fabric-api": "*"
+	}
+}
